@@ -1,0 +1,52 @@
+{
+  "accounts": {
+    "100143": {
+      "name": "Vaibhav Singh",
+      "balance": 8467.0,
+      "transactions": [
+        {
+          "type": "Opening balance",
+          "amount": 10000.0,
+          "balance_after": 10000.0,
+          "date": "2026-09-24 17:19:32"
+        },
+        {
+          "type": "Deposit",
+          "amount": 143.0,
+          "balance_after": 10143.0,
+          "date": "2026-09-24 17:20:24"
+        },
+        {
+          "type": "Withdrawal",
+          "amount": 143.0,
+          "balance_after": 10000.0,
+          "date": "2026-09-24 17:20:57"
+        },
+        {
+          "type": "Deposit",
+          "amount": 123.0,
+          "balance_after": 10123.0,
+          "date": "2026-09-25 14:45:48"
+        },
+        {
+          "type": "Deposit",
+          "amount": 123.0,
+          "balance_after": 10246.0,
+          "date": "2026-09-25 14:50:02"
+        },
+        {
+          "type": "Deposit",
+          "amount": 1432.0,
+          "balance_after": 11678.0,
+          "date": "2026-09-25 19:11:27"
+        },
+        {
+          "type": "Withdrawal",
+          "amount": 3211.0,
+          "balance_after": 8467.0,
+          "date": "2026-09-25 19:11:45"
+        }
+      ]
+    }
+  }
+}
